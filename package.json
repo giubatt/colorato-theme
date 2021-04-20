@@ -1,8 +1,16 @@
 {
+    "version": "0.0.1",
     "name": "colorato-theme",
+    "author": {
+        "name": "Giuseppe Battistella",
+        "email": "bartgb00@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/giubatt/colorato-theme"
+    },
+    "publisher": "colorato-theme",
     "displayName": "colorato-theme",
     "description": "",
-    "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
     },
