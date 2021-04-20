@@ -2,6 +2,10 @@ interface Shoe {
   size: number;
   name: string;
 }
+// interface Shoe {
+//   size: number;
+//   name: string;
+// }
 
 interface Food {
   type: 'fruit' | 'vegetable';
