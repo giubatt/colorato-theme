@@ -1,0 +1,21 @@
+{
+    "name": "colorato-theme",
+    "displayName": "colorato-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colorato",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colorato-color-theme.json"
+            }
+        ]
+    }
+}
